@@ -4,7 +4,7 @@ import random
 import datetime
 
 
-bot = telebot.TeleBot('1436578816:AAEbHSFp9woCJdN3kF6bypfzXGtRmxVobBo')
+bot = telebot.TeleBot('1491893559:AAGPvYgAqUjbHtrQ3RygHtGCQFL8n9TQQII')
 url = ('http://newsapi.org/v2/top-headlines?'
        'country=us&'
        'apiKey=da5eb0d561a04504aa7c2f99fde19cd1')
