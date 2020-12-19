@@ -1,0 +1,17 @@
+Thank you for using our multifunctional bot for the Telegram platform. In this document you will find a short description and instructions for its use.
+
+Our bot uses different libraries, such as:
+1. telebot
+2. requests
+3. datetime
+4. random
+
+Its main functions are:
+1. He can show you news from a specific country.
+2. You can check the weather and exact time in any city around the world.
+3. And he can also advise you on good music.
+
+To use it:
+1. Find @bank_assistent_bot in the Telegram.
+2. Write to him "/start" or press the corresponding button.
+3. Then you can freely use its functions.
